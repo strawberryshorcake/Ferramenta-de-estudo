@@ -26,6 +26,9 @@ body {
     background-color:rgb(17, 128, 91) ;
     text-align: left;
     padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    font-size: 1vw;
 
 }
 
