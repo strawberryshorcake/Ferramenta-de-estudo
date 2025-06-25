@@ -1,7 +1,35 @@
 body {
-    background-color: rgb(7, 88, 61);
+    background-color: rgb(178, 209, 163);
     font-family: Playfair Display;
 }
+
+#container{
+    display: flex;
+
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: rgb(17, 128, 91);
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem)
+
+}
+
+.cartao__conteudo{
+    text-align: center;
+    height: 100%;
+}
+
+.cartao_conteudo h3{
+    background-color:rgb(17, 128, 91) ;
+    text-align: left;
+    padding: 0.5rem;
+
+}
+
+
 
 footer {
     background-color: black;
