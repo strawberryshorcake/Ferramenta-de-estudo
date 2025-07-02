@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(197, 61, 43);
+    background-color: rgb(151, 36, 20);
     font-family: Playfair Display;
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 .cartao__conteudo h3{
-    background-color:rgb(17, 128, 91) ;
+    background-color:rgb(204, 57, 20) ;
     text-align: left;
     padding: 0.5rem;
     position: absolute;
