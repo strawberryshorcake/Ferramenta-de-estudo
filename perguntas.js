@@ -1,6 +1,6 @@
 criaCartao(
     'Gaara',
-    'Qual seu papel na vila?',
+    'Qual papel de Gaara na vila?',
     'Kazekage.'
 )
 criaCartao(
