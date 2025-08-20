@@ -15,8 +15,6 @@ body {
     justify-content: space-between;
     padding: 4rem;
     gap: 3rem;
-
-
 }
 
 .cartao{
@@ -28,6 +26,7 @@ body {
 }
 
 .cartao__conteudo{
+    background-color: var(--card-front-color);
     text-align: center;
     background-color: var(--card-front-color);
     height: 100%;
