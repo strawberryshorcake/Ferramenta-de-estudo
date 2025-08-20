@@ -14,17 +14,17 @@ criaCartao(
     'Gaara consome muito chakra,e sua areia pode se tornar pesada e difícil de controlar em contato com óleo.'
 )
 criaCartao(
-     'Gaara'
-     'Qual o significado do ideograma na testa de Gaara?'
+     'Gaara',
+     'Qual o significado do ideograma na testa de Gaara?',
      'O ideograma significa amor'
 )
 criaCartao(
-     'Gaara'
-     'Quem são os irmãos de Gaara?'
+     'Gaara',
+     'Quem são os irmãos de Gaara?',
      'Os irmãos de Gaara são Temari e Kankuro'
 )
 criaCartao(
-     'Gaara'
-     'Em qual episódio ocorre a a morte do gaara após a extração de shukaku?'
+     'Gaara',
+     'Em qual episódio ocorre a a morte do gaara após a extração de shukaku?',
      'A morte de Gaara, após a extração do Shukaku, ocorre no episódio 17 de Naruto Shippuden'
 )
