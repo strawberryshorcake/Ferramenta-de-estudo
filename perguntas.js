@@ -25,17 +25,6 @@ criaCartao(
 )
 criaCartao(
      'Gaara'
-     'Em qual episódio ocorre a amorte de gaara após a extração de shukaku?'
+     'Em qual episódio ocorre a a morte do gaara após a extração de shukaku?'
      'A morte de Gaara, após a extração do Shukaku, ocorre no episódio 17 de Naruto Shippuden'
 )
-cartao.innerHTML = `
-        <div class="cartao__conteudo">
-        <h3>${categoria}</h3>
-        <div class="cartao__conteudo__pergunta">
-                <p>${pergunta}</p>
-        </div>
-        <div class="cartao__conteudo__resposta">
-                <p>${resposta}</p>
-        </div>
-        </div>
-`
